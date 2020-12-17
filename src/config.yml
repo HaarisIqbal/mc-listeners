@@ -1,0 +1,5 @@
+firstJoin_message: '&a<player> &7has joined the server for the first time! Sucks to suck.'
+
+join_message: '&e<player> &7has joined the server. Lmao.'
+
+exit_message: '&e<player> &7has left the server. What a loser.'

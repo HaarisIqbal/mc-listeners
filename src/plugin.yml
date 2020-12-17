@@ -1,0 +1,5 @@
+name: Listeners
+version: 1.0
+author: Volcifire
+main: me.volcifire.listeners.Main
+description: My second minecraft spigot plugin, changing the join and quit message in chat.
